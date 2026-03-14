@@ -51,9 +51,10 @@ Ok… I’ll try not to go into too much more detail, but with this in mind here
 
 #### Prologue
 The prologue serves a few purposes:
-	- It introduces the core keyboard sound
-	- It plants the theme of being overwhelmed with random beeps and layered noises. It’s unpleasant.
-	- It showcases technical proficiency with randomized sound generation
+
+- It introduces the core keyboard sound
+- It plants the theme of being overwhelmed with random beeps and layered noises. It’s unpleasant.
+- It showcases technical proficiency with randomized sound generation
 
 #### Chapter 1 — Introduction to Investment
 Here, another key sound is introduced — the coins, which are an auditory symbol for "investment". Confidence grows as the coins (aka investing in healthy things like exercise, getting enough sleep, doing things with friends) quickly find their place in the rhythms of the keyboard, kick, and popping “msg” sounds (aka work and daily life). There is a momentary pause and we take a deep breath… and before it is even over we plunge into a more complex soundscape.
